@@ -1,4 +1,4 @@
-# Aadhaar-Voter_id-Uniqueness-Framework
+# Aadhaar-Voter_Id-Uniqueness-Framework
 
 AI-powered voter deduplication system that ensures one voter corresponds to one identity by combining Aadhaar verification, fuzzy matching, phonetic analysis, address normalization, and facial recognition.
 
