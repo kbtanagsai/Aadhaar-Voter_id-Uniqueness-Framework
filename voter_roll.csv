@@ -1,0 +1,23 @@
+name,dob,age,gender,epic_number,address,constituency,district,state,aadhaar_unique_id
+Rahul Sharma,1995-04-12,30,Male,ABC1234567,12 First Main Road Delhi,New Delhi,Central Delhi,Delhi,123456789001
+Sowmya Reddy,1998-07-21,27,Female,DEF2345678,45 MG Road Bengaluru,Jayanagar,Bengaluru Urban,Karnataka,123456789002
+Saumya Reddy,1998-07-21,27,Female,DEF2345679,45 M.G. Road Bangalore,Jayanagar,Bengaluru Urban,Karnataka,123456789002
+Mohammed Khan,1990-02-10,36,Male,GHI3456780,Gali No 3 Mumbai,Bandra,Mumbai Suburban,Maharashtra,123456789003
+Mohd Khan,1990-02-10,36,Male,GHI3456781,Galli No. 3 Mumbai,Bandra,Mumbai Suburban,Maharashtra,123456789003
+Anjali Verma,1997-09-15,28,Female,JKL4567890,22 Park Street Kolkata,Chowringhee,Kolkata,West Bengal,123456789004
+Anjali Verma,1997-09-15,28,Female,JKL4567891,22 Park Street Kolkata,Chowringhee,Kolkata,West Bengal,123456789004
+Priya Singh,1996-03-18,30,Female,PQR6789012,8 Nehru Nagar Bhopal,Bhopal Central,Bhopal,Madhya Pradesh,
+Arjun Nair,1993-11-30,32,Male,STU7890123,5 Temple Road Kochi,Ernakulam,Ernakulam,Kerala,
+Arjun Nair,1993-11-30,32,Male,STU7890124,5 Temple Road Kochi,Ernakulam,Ernakulam,Kerala,
+Deepak Yadav,1985-01-14,41,Male,YZA9012345,3 Civil Lines Pune,Pune Cantonment,Pune,Maharashtra,123456789006
+Sneha Gupta,1993-11-20,32,Female,BCD0123456,89 Sector 15 Noida,Noida,Gautam Buddha Nagar,Uttar Pradesh,123456789007
+Vikram Singh,1988-06-30,37,Male,CDE1234567,14 Fort Road Jaipur,Adarsh Nagar,Jaipur,Rajasthan,123456789008
+Amit Mishra,1982-02-14,44,Male,EFG3456781,101 Ganga Vihar Varanasi,Varanasi South,Varanasi,Uttar Pradesh,
+Neha Jain,1995-10-10,30,Female,FGH4567892,12 Bazaar Indore,Indore-1,Indore,Madhya Pradesh,
+Neha Jain,1995-10-10,30,Female,FGH4567893,12 Bazar Indore,Indore-1,Indore,Madhya Pradesh,
+Rohit Chawla,1996-08-18,29,Male,GHI5678904,21 Mall Road Shimla,Shimla,Shimla,Himachal Pradesh,123456789010
+Harish Rao,1994-12-01,31,Male,KLM9012348,77 IT Park Hyderabad,Jubilee Hills,Hyderabad,Telangana,123456789013
+Sauma Reddy,1998-07-21,27,Female,DEF2345680,45 M.G. Road Bangalore,Jayanagar,Bengaluru Urban,Karnataka,
+Samya Reddy,1999-07-21,27,Female,DEF2345681,45 M.G. Road Bangalore,Jayanagar,Bengaluru Urban,Karnataka,
+Anjali Verma,1996-09-15,29,Female,JKL4567899,22 Park Street Kolkata,Chowringhee,Kolkata,West Bengal,
+Priya,2006-03-18,20,Female,PQR6789056,8 Nehru Nagar Bhopal,Bhopal Central,Bhopal,Madhya Pradesh,
